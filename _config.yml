@@ -1,0 +1,12 @@
+# Site settings
+title: azadyourself
+email: fahmidazad@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Advocate for Human Rights, Voice for Gender Empowerment, Teacher at Heart.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://fahmidazad.github.io" # the base hostname & protocol for your site
+twitter_username: azadyourself
+github_username:  fahmidazad
+
+# Build settings
+markdown: kramdown
