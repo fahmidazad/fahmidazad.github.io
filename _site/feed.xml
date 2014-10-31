@@ -6,9 +6,20 @@
 </description>
     <link>http://fahmidazad.github.io/</link>
     <atom:link href="http://fahmidazad.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sat, 25 Oct 2014 20:53:20 -0500</pubDate>
-    <lastBuildDate>Sat, 25 Oct 2014 20:53:20 -0500</lastBuildDate>
+    <pubDate>Thu, 30 Oct 2014 22:23:38 -0500</pubDate>
+    <lastBuildDate>Thu, 30 Oct 2014 22:23:38 -0500</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Welcome</title>
+        <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+        <pubDate>Thu, 30 Oct 2014 00:00:00 -0500</pubDate>
+        <link>http://fahmidazad.github.io/2014/10/30/welcome.html</link>
+        <guid isPermaLink="true">http://fahmidazad.github.io/2014/10/30/welcome.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Welcome</title>
